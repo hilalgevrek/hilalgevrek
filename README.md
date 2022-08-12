@@ -1,5 +1,10 @@
 ### Hi there, I'm Hilal..👋
 
+
+SOCIAL
+[LINKEDIN] https://www.linkedin.com/in/hilalgevrek
+
+
 <!--
 **hilalgevrek/hilalgevrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
