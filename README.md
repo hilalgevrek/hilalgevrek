@@ -2,7 +2,8 @@
 
 
 SOCIAL
-[LINKEDIN] https://www.linkedin.com/in/hilalgevrek
+[![Linkedin: VPA] https://www.linkedin.com/in/hilalgevrek
+
 
 
 <!--
