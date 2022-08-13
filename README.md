@@ -1,8 +1,8 @@
-<center>
-<h1>Hi there! I'm Hilal &#128075;</h1>
-<h3>I am an engineer from Turkey who attach importance to planned work, and willing to learn new things.</h3>
+
+<h1 align="center">Hi there! I'm Hilal &#128075;</h1>
+<h3 align="center">I am an engineer from Turkey who attach importance to planned work, and willing to learn new things.</h3>
 <br></br>
-</center>
+
 <center>
 
 ## 📱 Social
@@ -14,7 +14,7 @@
 <a href="https://www.researchgate.net/profile/Hilal_Gevrek">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png?20150616125326" height=27 width=100>
 </a>
-<a align="left"> <img src="https://komarev.com/ghpvc/?username=hilalgevrek" alt="hilalgevrek" /> </a>
+<a> <img src="https://komarev.com/ghpvc/?username=hilalgevrek" alt="hilalgevrek" /> </a>
 <!-- <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> -->
 
 ## 📊 Data Visualization
@@ -49,9 +49,11 @@
 <a href="#" target="_blank"> <img src="https://seeklogo.com/images/V/visual-studio-2015-logo-31D5DD049E-seeklogo.com.png" alt="visual studio" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual studio code" height="45"/> </a>
 </p>
+
 </center>
+
 <br></br>
-<p align="left">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hilalgevrek&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilalgevrek&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilalgevrek&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
