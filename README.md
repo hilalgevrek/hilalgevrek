@@ -1,19 +1,22 @@
 <center>
 
 <h1>Hi there! I'm Hilal &#128075;</h1>
-<h3>A self motivated tech enthusiast and engineer from Turkey</h3>
+<h3>I am an engineer from Turkey who attach importance to planned work, and willing to learn new things.</h3>
 <br></br>
 
-## Social
+## 📱 Social
 <hr>
 
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilalgevrek/)
-<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:hilalgevrekk@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hilalgevrek97)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalgevrek" alt="hilalgevrek" /> </p>
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hilalgevrek/)
+[![gmail](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSKkkRXcDdSbWBSlNdDsZRJHFSFkWpqTwHSDtbdQmDQPrTdbHbFvqMzkHspcgVQNVNkRLDnK)
+[![medium](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@hilalgevrek97)
+<a href="https://www.researchgate.net/profile/Hilal_Gevrek">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png?20150616125326" height=27 width=100>
+</a>
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=hilalgevrek" alt="hilalgevrek" /> </a>
+<!-- <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> -->
 
-## 💻 Data Visualization
+## 📊 Data Visualization
 <hr>
 
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
@@ -21,7 +24,7 @@
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="55"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
 
-## 💻 Python Libraries
+## 📚 Libraries
 <hr>
 
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="150"/> </a>
