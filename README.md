@@ -10,8 +10,8 @@
 <a href="https://www.linkedin.com/in/hilalgevrek/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=28 width=100 alt="linkedin">
 </a>
-<a href="https://mail.google.com/mail/u/0/?pli=1#inbox?compose=GTvVlcSKkkRXcDdSbWBSlNdDsZRJHFSFkWpqTwHSDtbdQmDQPrTdbHbFvqMzkHspcgVQNVNkRLDnK">
-  <img src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=28 width=100 alt="gmail">
+<a href="mailto:hilalgevrekk@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=28 width=100 alt="gmail">
 </a>
 <a href="https://medium.com/@hilalgevrek97">
   <img src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" height=28 width=80 alt="medium">
